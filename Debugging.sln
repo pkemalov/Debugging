@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.trickyStrings", "Debugging\01.trickyStrings.csproj", "{4817DCBF-109A-455F-A177-655565788C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.triangleFormations", "02.triangleFormations\02.triangleFormations.csproj", "{B34F831F-66B3-4422-ABAC-9CDA6B051CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.tetris", "03.tetris\03.tetris.csproj", "{CEE0BEA0-9854-4CFA-99CC-D1A3AA46330A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.miningCoins", "04.miningCoins\04.miningCoins.csproj", "{BD4812EF-02D7-4B9D-B192-3139385B7F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4817DCBF-109A-455F-A177-655565788C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4817DCBF-109A-455F-A177-655565788C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4817DCBF-109A-455F-A177-655565788C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4817DCBF-109A-455F-A177-655565788C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34F831F-66B3-4422-ABAC-9CDA6B051CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34F831F-66B3-4422-ABAC-9CDA6B051CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34F831F-66B3-4422-ABAC-9CDA6B051CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34F831F-66B3-4422-ABAC-9CDA6B051CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE0BEA0-9854-4CFA-99CC-D1A3AA46330A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE0BEA0-9854-4CFA-99CC-D1A3AA46330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE0BEA0-9854-4CFA-99CC-D1A3AA46330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE0BEA0-9854-4CFA-99CC-D1A3AA46330A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4812EF-02D7-4B9D-B192-3139385B7F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4812EF-02D7-4B9D-B192-3139385B7F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4812EF-02D7-4B9D-B192-3139385B7F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4812EF-02D7-4B9D-B192-3139385B7F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
